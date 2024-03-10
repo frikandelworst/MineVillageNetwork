@@ -1,0 +1,5 @@
+velocity-plugin.json
+be\kyanvde\minevillagenetwork\commands\LockdownCommand.class
+be\kyanvde\minevillagenetwork\listeners\PlayerJoinListener.class
+be\kyanvde\minevillagenetwork\MineVillageNetwork.class
+be\kyanvde\minevillagenetwork\LockdownManager.class
